@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "data_site_interet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "nom": "AgroEcoPôle de Mirabeau", "Descript": "Ceci est un ecopole", "especescl�": null, "photo_url": "https:\/\/i.ibb.co\/nbv69FB\/agroecopole.jpg", "ID": "dom_Mir" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 3.765395322890846, 43.527994531061289 ] ] } },
+{ "type": "Feature", "properties": { "nom": "Plaine agricole", "Descript": "Ceci est une plaien", "especescl�": null, "photo_url": "https:\/\/i.ibb.co\/ZJ2rWJY\/plaine-agricole.jpg", "ID": "La_Roque" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 3.766169632663865, 43.538497912611689 ] ] } },
+{ "type": "Feature", "properties": { "nom": "Garrigue de la Roque", "Descript": "la Guarigue, quoi", "especescl�": null, "photo_url": "https:\/\/i.ibb.co\/PgJKpjT\/garrigue.jpg", "ID": "La_Roque" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 3.818585796161838, 43.563243652899594 ] ] } },
+{ "type": "Feature", "properties": { "nom": "Berges du Coulazou", "Descript": "Ripisylve", "especescl�": null, "photo_url": "https:\/\/i.ibb.co\/hCYY83y\/coulazou.jpg", "ID": "La_Roque" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 3.809340352625029, 43.557999555926187 ] ] } }
+]
+}
